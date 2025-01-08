@@ -9,8 +9,11 @@ macOS, Xcode, SFML (https://www.sfml-dev.org/download/)
 ## Gallery
 
 Sorting Algorithm Visualizer
+
 https://github.com/user-attachments/assets/bf7743e7-5155-43ed-b0c0-9a678b5d0b8a
 
 Graph Algorithm Visualizer
+
 https://github.com/user-attachments/assets/83843914-a4cb-4fdd-a952-75e942a34ab5
+
 
